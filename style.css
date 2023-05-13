@@ -14,6 +14,16 @@ html, body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.plx-imagebg{
+    background-image: url(https://images.unsplash.com/photo-1584974292709-5c2f0619971b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+    text-align: center;
+    width: 100%;
+    height: 900px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
  
 .text1{
     font-size: 99px;
@@ -27,6 +37,117 @@ html, body{
     font-weight: normal;
 }
  
+.text2{
+    font-size: 40px;
+    padding-top: 200px;
+    color: white;
+    margin: 0 0 20px 0;
+    font-family: 'Montserrat', sans-serif;
+}
+ 
+.content-1{
+    height: auto;
+    width: 100%;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+.footer{
+    height: auto;
+    width: 100%;
+    background-color: #000000;
+    text-align: center;
+}
+ 
+.text3{
+    font-family:  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    background-color: #f2f2f2;
+    
+}
+.button {
+
+
+    background-color:#fff200;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    min-height: 30px;
+    min-width: 60px;
+
+  }
+  .button:hover {
+    background-color:#009afa;
+    transition: 0.9999s;
+}
+.button:focus {
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 4px green;
+    transition: 0.7s;
+}
+.button:active {
+    background-color: #ffbf00;
+}
+
+ 
+.text4{
+    width: 70%;
+    margin-left: 15%;
+    padding: 30px 0 80px 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    background-color: #f2f2f2;
+    letter-spacing: 0.1em;
+    line-height: 1.8;
+}
+.text6{
+    width: 70%;
+    margin-left: 15%;
+    padding: 0px 0 0px 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    line-height: 1.8;
+}
+ 
+.plx-image2{
+    background-image: url(images/img2.png);
+    text-align: center;
+    width: 100%;
+    height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ 
+.content-2{
+    height: auto;
+    width: 100%;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+ 
+.text5{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    padding: 80px 0 80px 0;
+    letter-spacing: 0.2em;
+}
+.footer{
+    height: auto;
+    width: 100%;
+    text-align: center;
+    background-color: #000000;
+}
+._{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    padding: 80px 0 80px 0;
+    color: rgb(93, 93, 93);
+    letter-spacing: 0.2em;
+    
+}
 .text2{
     font-size: 40px;
     padding-top: 200px;
